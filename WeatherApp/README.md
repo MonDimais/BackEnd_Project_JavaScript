@@ -28,7 +28,7 @@ The app fetches weather information from the [Open-Meteo API](https://open-meteo
 
 ### 1. Download the repo or clone it 
 ```bash
-git clone https://github.com/MonDimais/BackEnd_Project_JavaScript
+git clone https://github.com/MonDimais/BackEnd_Project_JavaScript.git
 ```
 
 ### 2. Open `weather.html` in your browser  
